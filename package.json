@@ -1,0 +1,14 @@
+{
+  "name": "byob-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "sirv src --dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sirv-cli": "^1.0.14"
+  }
+}
